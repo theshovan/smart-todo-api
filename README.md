@@ -67,4 +67,4 @@ The **Smart ToDo API** provides a secure foundation for managing daily tasks. It
 * **Source Code:** Fully organized modular structure following industry best practices.
 
 ---
-**Developed by:** [Shovan Bera](theshovan)
+**Developed by:** [Shovan Bera](https://github.com/theshovan)
